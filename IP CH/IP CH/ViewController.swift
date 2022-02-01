@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
   
     
-    private var baseurl: String = "http://oriti.mingleminds.in/";
+    private var baseurl: String = "http://oriti.singhalconsultancy.com";
     
     private var numberOfItemsInRow = 2
 
